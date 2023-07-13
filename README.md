@@ -1,8 +1,5 @@
 # Meta-Airways-Web-App
-HTML, CSS, JavaScript, PHP based web application for Airline ticket management.
-
-### Demo <br/>
-https://youtu.be/4ColvwzCDp0
+HTML, CSS, JavaScript, and PHP-based web application for Airline ticket management.
 
 ### Database Schema <br/>
 ![plot](./assets/schema.png)
